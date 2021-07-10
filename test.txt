@@ -1,2 +1,21 @@
-this is just a test and i am trying to check if it really works
+Write a python program to find the largest of three numbers .
+Write a python program to check whether a character is uppercase or lowercase alphabet.
+WAP to find whether given input is number or character.
+Write a program to check whether the input alphabet is vowel or not using if-else.
+Write a program to check whether the entered year is leap year or not.
+Write a program to check if the number is Armstrong or not.
+
+                    Write a program to compute the grade from marks.
+
+                        Marks                      Grade
+                        Marks<=50                   F
+                        60>=marks>50                E
+                        70>= marks > 60             D
+                        80>= marks > 70             C
+                        90 > = marks > 80           B
+                        100>= marks >90             A
+
+
+
+
 
